@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "Bebas";
+	src:url(fonts/BebasNeue-Regular.ttf), url(fonts/BebasNeue-Regular.eot), url(fonts/BebasNeue-Regular.otf);
+}
+
+body{
+	font-family: "Bebas";
+}
+h1,h2,h3,h4,h5,h6,p,a{
+	font-family: "Bebas";
+}
